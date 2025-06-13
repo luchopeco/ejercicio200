@@ -6,3 +6,5 @@ $version = $_GET['v'];
 echo 'Marca: '.$marca;
 echo '<br>';
 echo 'Version: '.$version;
+//un comentario
+// otro
